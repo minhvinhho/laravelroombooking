@@ -10,16 +10,16 @@ class UsersTableSeeder extends Seeder
         $users = [
             [
                 'id'             => 1,
-                'name'           => 'Admin',
-                'email'          => 'admin@admin.com',
-                'password'       => '$2y$10$VOunUZVMv4bwC84FJngVdORh/3WOQsLYXcHOTcmsVFWTVWWg.V8/i',
+                'name'           => 'MinhAdmin',
+                'email'          => 'Mrbright4078@gmail.com',
+                'password'       => '$2y$10$CB25SyoBYxlQaTMdluFfieApXrT1wfUoB/02ivR2fm4muaUE2HqQ.',
                 'remember_token' => null,
             ],
             [
                 'id'             => 2,
-                'name'           => 'User',
-                'email'          => 'user@user.com',
-                'password'       => '$2y$10$VOunUZVMv4bwC84FJngVdORh/3WOQsLYXcHOTcmsVFWTVWWg.V8/i',
+                'name'           => 'MinhUser',
+                'email'          => 'minh1999gay@gmail.com',
+                'password'       => '$2y$10$CB25SyoBYxlQaTMdluFfieApXrT1wfUoB/02ivR2fm4muaUE2HqQ.',
                 'remember_token' => null,
             ],
         ];
